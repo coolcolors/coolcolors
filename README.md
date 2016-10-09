@@ -1,1 +1,1 @@
-# coolcolors repo
+# coolcolors
